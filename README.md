@@ -1,37 +1,26 @@
-<h1>Hi, I'm Manjot! 
+# Hi there 👋, I'm Manjot Singh
 
-<h2>👨‍💻 My Projects:</h2>
+I’m a **C++ enthusiast and aspiring software engineer** exploring computer science, algorithms, and practical projects. I love building projects that solve real-world problems and help me grow as a programmer.  
 
-- <b>Student Record Management System (https://github.com/Gmanjot4321/Student-Record-Management.git)
+## 🚀 About Me
+- 🌱 Currently learning **Data Structures and Algorithms, Cybersecurity**  
+- 💻 Skilled in **C++**, **OOP**, **File I/O**, and **Console Applications**  
+- 📚 Passionate about **problem-solving, coding challenges, and real-life projects**  
+- 🎯 Interested in **internships, software engineering, and tech innovations**  
 
-- <b>Conway's Game of Life</b> (https://github.com/Gmanjot4321/Game-Of-Life.git)
-  
-  
+## 🛠️ Skills
+- **Programming Languages:** C++, Python (basic)  
+- **Concepts:** Object-Oriented Programming, Recursion, STL, File I/O, SQL/Linux  
+- **Tools:** Git, GitHub, VS Code    
 
-<h2>📺 Certifications</h2>
+## 🏆 Projects
+- **Conway’s Game of Life (C++):** 
+- **Student Management System (C++):**     
 
+## 📈 GitHub Stats
+![Manjot's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
+## 📫 Contact Me
+- Email: [your.email@example.com](mailto:your.email@example.com)  
+- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
 
-<h2> 🤳 Connect with me:</h2>
-
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
-
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
