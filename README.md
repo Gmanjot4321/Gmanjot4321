@@ -14,13 +14,10 @@ I’m a **C++ enthusiast and aspiring software engineer** exploring computer sci
 - **Tools:** Git, GitHub, VS Code    
 
 ## 🏆 Projects
-- **Conway’s Game of Life (C++)** 
+- **Conway’s Game of Life (C++)** (https://github.com/Gmanjot4321/Game-Of-Life.git)
 - **Student Management System (C++)** (https://github.com/Gmanjot4321/Student-Record-Management.git)    
 
-## 📈 GitHub Stats
-![Manjot's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
 ## 📫 Contact Me
-- Email: [your.email@example.com](mailto:your.email@example.com)  
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
+- Email: [manjotg722@gmail.com](mailto:your.email@example.com)  
+- LinkedIn: [linkedin.com/in/manjotsingh065](https://linkedin.com/in/yourprofile)  
 
