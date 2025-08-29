@@ -14,8 +14,8 @@ I’m a **C++ enthusiast and aspiring software engineer** exploring computer sci
 - **Tools:** Git, GitHub, VS Code    
 
 ## 🏆 Projects
-- **Conway’s Game of Life (C++):** 
-- **Student Management System (C++):**     
+- **Conway’s Game of Life (C++)** 
+- **Student Management System (C++)** (https://github.com/Gmanjot4321/Student-Record-Management.git)    
 
 ## 📈 GitHub Stats
 ![Manjot's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
