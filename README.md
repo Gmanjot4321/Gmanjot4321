@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 My Projects:</h2>
 
-- <b>Student Record Management System
+- <b>Student Record Management System (https://github.com/Gmanjot4321/Student-Record-Management.git)
 
 - <b>Conway's Game of Life</b> (https://github.com/Gmanjot4321/Game-Of-Life.git)
   
