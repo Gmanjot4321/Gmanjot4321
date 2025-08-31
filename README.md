@@ -9,7 +9,7 @@ I’m a **C++ enthusiast and aspiring software engineer** exploring computer sci
 - 🎯 Interested in **internships, software engineering, and tech innovations**  
 
 ## 🛠️ Skills
-- **Programming Languages:** C++, Python (basic)  
+- **Programming Languages:** C++, Python   
 - **Concepts:** Object-Oriented Programming, Recursion, STL, File I/O, SQL/Linux  
 - **Tools:** Git, GitHub, VS Code    
 
